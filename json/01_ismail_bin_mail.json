@@ -2,7 +2,7 @@
   "Ads": [
     {
 
-      "select_main_ads":"xxxx",
+      "select_main_ads":"ADMOB",
       "select_backup_ads":"STARTAPP",
 
       "main_ads_intertitial":"ca-app-pub-1512130342661716/4739623847",
