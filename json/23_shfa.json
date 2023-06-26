@@ -2,10 +2,10 @@
   "Ads": [
     {
 
-      "select_main_ads":"xxxx",
+      "select_main_ads":"ADMOB",
       "select_backup_ads":"xxxx",
 
-      "main_ads_intertitial":"xxxxx",
+      "main_ads_intertitial":"ca-app-pub-1512130342661716/6678840138",
       "main_ads_banner":"xxxxx",
 
       "backup_ads_intertitial":"xxxxx",
@@ -16,9 +16,9 @@
       "initialize_sdk_backup_ads":"204729745",
 
       "interval_intertitial":1,
-      "admob_native": "xxxxx",
-      "admob_native2": "xxxxx",
-      "admob_open": "xxxxx",
+      "admob_native": "ca-app-pub-1512130342661716/9435251019",
+      "admob_native2": "ca-app-pub-1512130342661716/5032971578",
+      "admob_open": "ca-app-pub-1512130342661716/7501538032",
 
       "hpk1": "",
       "hpk2": "",
